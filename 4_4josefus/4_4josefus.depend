@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480372657 source:c:\users\asus\documents\yliopisto\datastructuresandalgotirhms\4_4josefus\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circ_list.h"
+	"circ_list.c"
+
+1479815114 c:\users\asus\documents\yliopisto\datastructuresandalgotirhms\4_4josefus\circ_list.h
+
+1480376835 c:\users\asus\documents\yliopisto\datastructuresandalgotirhms\4_4josefus\circ_list.c
+	<stdio.h>
+	<stdlib.h>
+	"circ_list.h"
+

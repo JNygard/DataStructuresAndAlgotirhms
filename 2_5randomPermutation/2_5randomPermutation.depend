@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479243548 source:c:\users\asus\documents\yliopisto\datastructuresandalgorithms\datastructuresandalgotirhms\2_5randompermutation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
